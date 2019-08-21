@@ -1,0 +1,14 @@
+.main-menu {
+    list-style: none;
+    margin-left: auto;
+    align-items: center;
+    padding: 0;
+}
+.main-menu-item {
+    margin-left: 15px;
+}
+
+.main-menu-item a:hover {
+    color: tomato;
+    text-decoration: none;
+}
